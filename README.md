@@ -1,6 +1,5 @@
 + Hi, I’m @stepkagrigoriev
-+ I’m interested in C# and .NET developmeny
-+ I’m currently learning C# and backend
++ I’m interested in C# and .NET development
 + How to reach me: tg - @avosthh, stepkagrigoriev@yandex.ru
 + love my gf <3
 + FIIT UrFU 24/28
